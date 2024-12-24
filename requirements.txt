@@ -1,0 +1,10 @@
+pymongo
+streamlit
+transformers
+langchain
+sentence-transformers
+python-dotenv
+langchain-ollama
+langchain-qdrant
+qdrant-client
+openai
